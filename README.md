@@ -1,5 +1,5 @@
 # code-collab-aa
-AGILE AVENGER'S Code and Collaborate project.
+## AGILE AVENGER'S<sup>TM</sup> Code and Collaborate project.
 
 ### Project's naming conventions:
 ```
